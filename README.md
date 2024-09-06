@@ -21,7 +21,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **BMH12M205 Arduino Library Description]( https://www.bestmodulescorp.com/bmh12m205.html#tab-product2 )** - Arduino Library Description.
+* **[BMH12M205 Arduino Library Description]( https://www.bestmodulescorp.com/bmh12m205.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
